@@ -1,0 +1,25 @@
+.hrs{
+    color: rgb(182, 6, 124);
+    font-size: 25px;
+    font-family: arial;
+    font-variant: small-caps;
+}
+.dks{
+    color: rgb(244, 132, 11);
+    font-size: 25px;
+    font-family: roboto;
+}
+.srs{
+    color: blue;
+    font-style:italic;
+    font-weight: normal;
+}
+.krs{
+    color:red;
+    font-family: sans-serif;
+    font-variant:small-caps;
+    font-size: larger;
+    font-weight: normal;
+}
+
+
